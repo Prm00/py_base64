@@ -4,5 +4,7 @@ This tool is for text encoding and decoding texts To download the tool: pkg inst
 #pkg install python3
 #pkg install pip
 #pip install pybase64
+#git clone https://github.com/Prm00/py_base64
 #cd PRM.001
 #python shifre3.py
+
